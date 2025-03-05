@@ -7,7 +7,4 @@ Ví dụ: Nội dung file christmas.html https://picces04.github.io/MerryChristm
 # Lưu ý:
 - File christmas.html chỉ chạy được ở máy local thôi nhé, nếu bạn deploy lên tên miền riêng sẽ bị giới hạn do plugin đang dùng Trial.
 
-- File *Sata Claus.html* được thiết kế theo màn hình điện thoại. Nếu bạn mở file trên máy tính bằng Chrome, thì click phải vào khoảng trống trên Chrome > Inspect rồi click vào Icon như clip bên dưới, để xem được layout của màn hình điện thoại.
-
-Xem clip hướng dẫn tại đây: https://youtu.be/l9Huqo0x3Bg
 
